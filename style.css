@@ -2011,9 +2011,9 @@ footer {
 }
 
 
-@media only screen and (max-width: 1300px) and (max-height: 730px){
+@media only screen and (max-width: 1300px) and (max-height: 730px) {
     .landing-page-container {
         height: fit-content;
-        margin-top: 100px;  
+        margin-top: 100px;
     }
 }
